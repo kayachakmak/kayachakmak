@@ -1,13 +1,5 @@
-👋 Hello world! I'm Kaya, a passionate web developer with a unique journey. 🚀
+Hello! I'm Kaya, a former Chemical Engineer who has transitioned into the field of Web Development. My journey began with an intensive bootcamp, where I developed strong skills in front-end technologies such as JavaScript, React, and various React frameworks. Additionally, I gained experience with NoSQL databases.
 
-🧪 Former chemical engineer turned code enthusiast, I bring analytical problem-solving skills from the lab to the world of web development.
+Following the completion of the bootcamp, I focused on expanding my knowledge in backend development, specifically learning Python. Currently, I am dedicated to learning Android development, with a focus on Kotlin and Android Studio.
 
-💻 Currently honing my skills in front-end technologies like HTML, CSS, and JavaScript at Spiced Academy. Always excited to learn and grow in the ever-evolving tech landscape.
-
-🔗 Check out my latest web projects on my GitHub repositories, and don't hesitate to offer feedback or collaborate on exciting new ventures.
-
-🌐 On a mission to build meaningful and user-friendly web applications that make a positive impact. Let's connect and create something awesome together!
-
-📫 You can reach me via email at kycakmak@gmail.com.
-
-🌱 When I'm not coding, you'll find me playing games, experimenting in the kitchen, or enjoying my garden.
+I'm super passionate about picking up new skills and staying in the loop with the latest tech trends. I love a good challenge and building cool stuff.
