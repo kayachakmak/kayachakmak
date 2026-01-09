@@ -1,1 +1,1 @@
-Backend developer & AI enthusiast with experience integrating ML models into AI-powered robotics runtimes at Micropsi Industries. Skilled in Python automation, API development, and AI-driven chatbot solutions. Currently focused on freelancing and crafting intelligent software solutions.
+Full-stack developer & AI enthusiast with experience integrating ML models into AI-powered robotics runtimes at Micropsi Industries. Skilled in Python automation, API development, and AI-driven chatbot solutions. Currently focused on freelancing and crafting intelligent software solutions.
